@@ -1,3 +1,3 @@
 # Advent-of-Code
 
-10 stars as of December 5, 2020
+12 stars as of December 6, 2020
