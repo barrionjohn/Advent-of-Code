@@ -1,3 +1,3 @@
 # Advent of Code
 ## 2020
-24 stars as of December 12, 2020, 7:00 PM (GMT +8)
+26 stars as of December 12, 2020, 7:40 PM (GMT +8)
